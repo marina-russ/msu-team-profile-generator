@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/marina-russ/team-profile-generator#readme",
   "dependencies": {
-    "email-validator": "^2.0.4",
     "inquirer": "^8.0.0"
   }
 }
