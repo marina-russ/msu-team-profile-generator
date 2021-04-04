@@ -16,7 +16,9 @@ Team Profile Generator
 * Section for unit tests
 
 ## Video Walkthrough:
-![Video](https://drive.google.com/file/d/1FzLHFSCwg_0rxxXYeRj5wYj65vmZBqHz/view)
+[Video](https://drive.google.com/file/d/1FzLHFSCwg_0rxxXYeRj5wYj65vmZBqHz/view)
 
 ## Deployed App:
-![Application](https://marina-russ.github.io/team-profile-generator/)
+[Application](https://marina-russ.github.io/team-profile-generator/)
+
+![Screenshot](assets/screenshot.png)
